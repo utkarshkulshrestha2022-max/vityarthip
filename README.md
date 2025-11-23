@@ -78,3 +78,5 @@ Check MySQL:
 SELECT * FROM registrations;
 
 screenshots:- 
+<img width="1470" height="956" alt="Screenshot 2025-11-23 at 7 34 55 PM" src="https://github.com/user-attachments/assets/fe059ded-77b9-4790-925b-ccd2e080ce2e" />
+
